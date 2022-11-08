@@ -135,3 +135,14 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
 ```
 source ~/.zshrc
 ```
+
+# Refs
+
+[https://www.josean.com/posts/terminal-setup](terminal setup blog post)
+[https://www.youtube.com/watch?v=CF1tMjvHDRA](terminal setup youtube turorial)
+
+[https://github.com/josean-dev/dev-environment-files](nvim setup code repo)
+[https://www.youtube.com/watch?v=vdn_pKJUda8](nvim setup youtube turotial)
+
+[https://www.josean.com/posts/tmux-setup](tmux setup blog post)
+[https://www.youtube.com/watch?v=U-omALWIBos](tmux setup youtube tutorial)
