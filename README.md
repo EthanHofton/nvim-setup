@@ -138,11 +138,20 @@ source ~/.zshrc
 
 # Refs
 
-[https://www.josean.com/posts/terminal-setup](terminal setup blog post)
-[https://www.youtube.com/watch?v=CF1tMjvHDRA](terminal setup youtube turorial)
+1. Terminal Setup
 
-[https://github.com/josean-dev/dev-environment-files](nvim setup code repo)
-[https://www.youtube.com/watch?v=vdn_pKJUda8](nvim setup youtube turotial)
+[terminal setup blog post](https://www.josean.com/posts/terminal-setup)
 
-[https://www.josean.com/posts/tmux-setup](tmux setup blog post)
-[https://www.youtube.com/watch?v=U-omALWIBos](tmux setup youtube tutorial)
+[terminal setup youtube turorial](https://www.youtube.com/watch?v=CF1tMjvHDRA)
+
+2. Nvim setup
+
+[nvim setup code repo](https://github.com/josean-dev/dev-environment-files)
+
+[nvim setup youtube turotial](https://www.youtube.com/watch?v=vdn_pKJUda8)
+
+3. Tmux setup
+
+[tmux setup blog post](https://www.josean.com/posts/tmux-setup)
+
+[tmux setup youtube tutorial](https://www.youtube.com/watch?v=U-omALWIBos)
