@@ -53,6 +53,13 @@ tmux new -s session
 tmux source ~/.tmux.conf
 ```
 
+8. b fix 127 error
+
+add line before `run-shell` if getting `... returned 127` when trying to resource
+```
+set-environment -g PATH "/opt/homebrew/bin:/usr/local/bin:/bin:/usr/bin"
+```
+
 9. Install plugins
 
 ```
